@@ -1,0 +1,60 @@
+
+`
+java:S1854"ERemove this useless assignment to local variable "consumoEnergetico".(»ìéÌûÿÿÿÿ
+[
+java:S1854"ERemove this useless assignment to local variable "consumoEnergetico".(˜ÃÜÁ
+[
+java:S1854"ERemove this useless assignment to local variable "consumoEnergetico".(¸îáË
+`
+java:S1854"ERemove this useless assignment to local variable "consumoEnergetico".(÷Ùò‰ùÿÿÿÿ
+`
+java:S1854"ERemove this useless assignment to local variable "consumoEnergetico".(‹„ÀÇøÿÿÿÿ
+`
+java:S1854"ERemove this useless assignment to local variable "consumoEnergetico".(š× Íıÿÿÿÿ
+`
+java:S1854"ERemove this useless assignment to local variable "consumoEnergetico".(»ìéÌûÿÿÿÿ
+V	java:S125!"<This block of commented-out lines of code should be removed.(Óÿ£‡üÿÿÿÿ
+B
+java:S1172M",Remove this unused method parameter "color".(½¬‹Ã
+S
+java:S1172T"8Remove this unused method parameter "consumoEnergetico".(Â‘“Ïùÿÿÿÿ
+K
+java:S1481Š"/Remove this unused "finalPrice" local variable.(¨¹Öèüÿÿÿÿ
+S
+java:S1117¢"7Rename "peso" which hides the field declared at line 8.(µÌ¡éùÿÿÿÿ
+S
+java:S1117¥"7Rename "peso" which hides the field declared at line 8.(€èÓâıÿÿÿÿ
+M
+java:S1117¨"7Rename "peso" which hides the field declared at line 8.(°Ó¦z
+9
+java:S2252¬"This loop will never execute.(´‡°óùÿÿÿÿ
+X
+java:S2251¬"<"peso" is incremented and will never reach "stop condition".(´‡°óùÿÿÿÿ
+S
+java:S1117¬"7Rename "peso" which hides the field declared at line 8.(´‡°óùÿÿÿÿ
+F
+java:S1656‹"/Remove or correct this useless self-assignment.(¬±Š 
+E
+java:S1656+"/Remove or correct this useless self-assignment.(¨­úã
+K
+java:S1656†"/Remove or correct this useless self-assignment.(üìÑÁüÿÿÿÿ
+b
+java:S1192"GDefine a constant instead of duplicating this literal "blanco" 5 times.(Ê­åÔúÿÿÿÿ
+z
+java:S1488²"cImmediately return this expression instead of assigning it to the temporary variable "finalPrice1".(ŸÑŠ¼
+p
+java:S1104"UMake basePrice a static final constant or non-public and provide accessors if needed.(ÔõüÔøÿÿÿÿ
+l
+java:S1104"QMake color a static final constant or non-public and provide accessors if needed.(Ê­åÔúÿÿÿÿ
+x
+java:S1104"]Make consumoEnergetico a static final constant or non-public and provide accessors if needed.(½À—ûøÿÿÿÿ
+f
+java:S1104"PMake peso a static final constant or non-public and provide accessors if needed.(ÃÕ¹¦
+>
+java:S2189¬""Correct this loop's end condition.(´‡°óùÿÿÿÿ
+y
+java:S4165‹"bRemove this useless assignment; "peso" already holds the assigned value along all execution paths.(¬±Š 
+…
+java:S4165+"oRemove this useless assignment; "consumoEnergetico" already holds the assigned value along all execution paths.(¨­úã
+ƒ
+java:S4165†"gRemove this useless assignment; "basePrice" already holds the assigned value along all execution paths.(üìÑÁüÿÿÿÿ

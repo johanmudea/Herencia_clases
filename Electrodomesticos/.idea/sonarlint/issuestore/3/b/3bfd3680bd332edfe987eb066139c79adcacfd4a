@@ -1,0 +1,25 @@
+
+j	java:S116"PRename this field "CARGA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘Øëùÿÿÿÿ
+Z
+java:S18549"?Remove this useless assignment to local variable "incrementos".(­Á–ğıÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(à±ô
+E
+java:S1656&"/Remove or correct this useless self-assignment.(ã„ÒÊ
+E
+java:S1656"/Remove or correct this useless self-assignment.(ã„ÒÊ
+E
+java:S1656"/Remove or correct this useless self-assignment.(ã„ÒÊ
+y
+java:S4165&"cRemove this useless assignment; "CARGA" already holds the assigned value along all execution paths.(ã„ÒÊ
+…
+java:S4165"oRemove this useless assignment; "consumoEnergetico" already holds the assigned value along all execution paths.(Ş©Éî
+y
+java:S4165"cRemove this useless assignment; "CARGA" already holds the assigned value along all execution paths.(ã„ÒÊ
+}
+java:S4165"gRemove this useless assignment; "basePrice" already holds the assigned value along all execution paths.( «·ö
+y
+java:S4165"cRemove this useless assignment; "CARGA" already holds the assigned value along all execution paths.(ã„ÒÊ
+}
+java:S4165A"gRemove this useless assignment; "basePrice" already holds the assigned value along all execution paths.( «·ö
+}
+java:S4165"bRemove this useless assignment; "peso" already holds the assigned value along all execution paths.(¯¸®ƒşÿÿÿÿ
